@@ -1,0 +1,25 @@
+{
+  "name": "redux-reddit",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "0.2.1"
+  },
+  "dependencies": {
+    "babel-polyfill": "^6.20.0",
+    "es6-promise": "^4.0.5",
+    "isomorphic-fetch": "^2.2.1",
+    "react": "^15.2.1",
+    "react-dom": "^15.2.1",
+    "react-redux": "^4.4.6",
+    "redux": "^3.5.2",
+    "redux-logger": "^2.7.4",
+    "redux-thunk": "^2.1.0",
+    "todomvc-app-css": "^2.0.6"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject"
+  }
+}
